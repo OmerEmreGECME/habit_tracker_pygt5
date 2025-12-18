@@ -24,5 +24,4 @@ Kullanıcıların alışkanlıklarını ekleyip yönetebilmesini ve verilerin ye
 
 ---
 
-## 📁 Proje Dosya Yapısı
 
